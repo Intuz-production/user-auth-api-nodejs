@@ -1,3 +1,8 @@
+## About Intuz
+This library is maintained by [Intuz](https://www.intuz.com) — an AI-first software development company specializing in [custom software development](https://www.intuz.com/software-development)
+and [AI development services](https://www.intuz.com/ai-development).
+<br><br>
+
 **<h1>Introduction - User Authentication</h1>**
 
 This component is used to check if requested user(s) are active in current application or not. For example, I have logged in with User A in mobile app at 10:00 AM, and Admin user would deactivate the User A from backend panel at 10:15 AM, at that time I was still logged in. After that when I would try to perform any action (which interact with server/API), using this component, we could identify the user's latest status and logged him out from the application.
